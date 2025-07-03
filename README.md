@@ -12,6 +12,4 @@ Script ini digunakan untuk menginstal `sudo` versi **1.9.17p1** atau lebih baru 
 ```bash
 git clone https://github.com/ademulyana16/sudo-installer.git
 cd sudo-installer
-
-### 2. Hak Akses
 chmod +x install_sudo_1.9.17p1.sh
