@@ -14,5 +14,4 @@ git clone https://github.com/ademulyana16/sudo-installer.git
 cd sudo-installer
 
 ### 2. Hak Akses
-```bash
 chmod +x install_sudo_1.9.17p1.sh
